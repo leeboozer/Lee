@@ -1,7 +1,7 @@
 a
-bbbb
+b
 c
-dddd
+d
 e
 f
 g
